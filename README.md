@@ -1,7 +1,7 @@
 ##CodeLanka Proposals
 ===================
 
-Code Lanka is a intiative of GDG Sri Lanka "To Code A Society"
+Code Lanka is a intiative of GDG Sri Lanka "To Code A Better Society"
 
 Many of you have idea on solving problems using technology this can be used to voice your idea and gather 
 a community around it, fork this readme.md and send us a pull request.
