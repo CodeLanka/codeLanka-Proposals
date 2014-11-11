@@ -56,3 +56,22 @@ As developers we can do more if it was in SQL and do some nice graphics. My sugg
 Issues link - [Post you comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/2)
 
 
+
+
+###2. Sinhala Font Directory 
+
+####Author
+
+
+Pasindu De Silva
+
+
+####Description
+
+
+Repo with all the Sri Lankan Fonts
+
+
+
+
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/3)
