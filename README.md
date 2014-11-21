@@ -75,3 +75,22 @@ Repo with all the Sri Lankan Fonts
 
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/3)
+
+
+###3. Adobe Brackets Sinhala Localization
+
+####Author
+
+
+Chathu Vishwajith
+
+
+####Description
+
+
+Localize Adobe Brackets Code Editor to Sinhala.
+
+
+
+
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/3)(https://github.com/CodeLanka/codeLanka-Proposals/issues/6)
