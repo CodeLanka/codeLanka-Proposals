@@ -93,4 +93,4 @@ Localize Adobe Brackets Code Editor to Sinhala.
 
 
 
-Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/3)(https://github.com/CodeLanka/codeLanka-Proposals/issues/6)
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/6)
