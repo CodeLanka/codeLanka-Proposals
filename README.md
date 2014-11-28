@@ -94,3 +94,21 @@ Localize Adobe Brackets Code Editor to Sinhala.
 
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/6)
+
+
+###4. local language font compatibility library for android
+
+
+####Author
+
+
+Pahan Sarathchandra
+
+
+####Description
+
+
+Android 5.0 lollipop was released recently with sinhala/tamil language. We can make 'noto sans sinhala' font compatible across all android versions. I have done similar work in kichibichiya, siyalu, hathmaluwa android apps. But need to rewrite to fix performance issues.
+
+
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/8)
