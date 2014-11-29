@@ -20,8 +20,9 @@ a community around it, fork this readme.md and send us a pull request with your 
 
 ###Project List
 *   [Sri Lanka Open Data](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#1-open-data-xls--pdf-to-sql)
-
-
+*   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
+*   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
+*   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
 
 
 ###Sample Proposal heading
