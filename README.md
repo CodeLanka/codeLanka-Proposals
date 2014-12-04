@@ -18,6 +18,8 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   Roshan Lakmal Elvitigala (GDG Team)
 
 
+[Google Group | Mailing List](https://groups.google.com/forum/#!forum/codelanka)
+
 ###Project List
 *   [Sri Lanka Open Data](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#1-open-data-xls--pdf-to-sql)
 *   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
