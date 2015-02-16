@@ -9,6 +9,12 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   You Can also submit application had to have built to code lanka
 
 
+##Are you a University Students looking for projects?
+
+*   Select a project from the list below and put up a issues.
+*   If you have any other ideas mail us and let's see :)
+
+
 ###Code Lanka Team
 
 *   Sadun Nilanka (GDG Manager)
