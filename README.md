@@ -31,6 +31,11 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
 *   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
 *   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
+*   Presentation Managment System - TODO
+
+
+###Getting Involved
+Just ping us or raise a issues. Following Projects should be done Open Source and under CodeLanka, unless stated otherwise.
 
 
 ###Sample Proposal heading
