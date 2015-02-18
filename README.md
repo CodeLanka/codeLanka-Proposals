@@ -9,6 +9,18 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   You Can also submit application had to have built to code lanka
 
 
+##Why?
+
+We are doing is to create applications and other resources that would improve the Sri Lankan developer community and society.
+
+
+
+##Policy and Rules
+
+
+* Respect everyone without execptions.
+
+
 ##Are you a University Students looking for projects?
 
 *   Select a project from the list below and put up a issues.
@@ -159,7 +171,7 @@ Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Propos
 
 
 
-###5. Sri Lanka Developer Technical Resources
+###6. Sri Lanka Developer Technical Resources
 
 
 ####Author
