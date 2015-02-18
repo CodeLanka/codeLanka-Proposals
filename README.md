@@ -31,7 +31,8 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
 *   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
 *   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
-*   [Singlish Corpus, dictionary etc]
+*   [Singlish Corpus, dictionary etc](https://github.com/CodeLanka/codeLanka-Proposals/#5-singlish-corpus-singlish-and-sinhala-wordset-sinhala-and-singlish-dictionary-singlish-and-sinhala-spam-word-dataset-singlish-sentimental-modal-or-dataset--etc)
+*   [Sri Lanka Developer Technical Resources]()
 *   Presentation Managment System - TODO
 
 
@@ -146,3 +147,25 @@ Sri Lankan Research lack quality transliterated corpus to run algorithms. Linkin
 
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/12)
+
+
+
+
+
+###5. Sri Lanka Developer Technical Resources
+
+
+####Author
+
+
+Pasindu De Silva
+
+
+####Description
+
+
+Normal datasets need when devloping a website for Sri Lankans, provinces with geo data and google maps integrations, districts with geo data, areas, postal code, phone number prefixs, formats etc.
+
+
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/13)
+
