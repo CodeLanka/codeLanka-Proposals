@@ -31,6 +31,7 @@ a community around it, fork this readme.md and send us a pull request with your 
 *   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
 *   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
 *   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
+*   [Singlish Corpus, dictionary etc]
 *   Presentation Managment System - TODO
 
 
@@ -126,3 +127,22 @@ Android 5.0 lollipop was released recently with sinhala/tamil language. We can m
 
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/8)
+
+
+
+###5. Singlish Corpus, Singlish and sinhala wordset, sinhala and singlish dictionary, singlish and sinhala spam word dataset, singlish sentimental modal or dataset  etc
+
+
+####Author
+
+
+Pasindu De Silva
+
+
+####Description
+
+
+Sri Lankan Research lack quality transliterated corpus to run algorithms. Linking singlish and sinhala dictionary for directly getting meaning for singlish words. Sinhala & singlish dataset of spam or slag for use of different filter and governance systems. Singlish and sinhala sentimental dataset.
+
+
+Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/12)
