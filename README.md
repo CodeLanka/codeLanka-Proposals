@@ -51,7 +51,7 @@ We are doing is to create applications and other resources that would improve th
 *   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
 *   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
 *   [Singlish Corpus, dictionary etc](https://github.com/CodeLanka/codeLanka-Proposals/#5-singlish-corpus-singlish-and-sinhala-wordset-sinhala-and-singlish-dictionary-singlish-and-sinhala-spam-word-dataset-singlish-sentimental-modal-or-dataset--etc)
-*   [Sri Lanka Developer Technical Resources](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#5-sri-lanka-developer-technical-resources)
+*   [Sri Lanka Developer Technical Resources](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#6-sri-lanka-developer-technical-resources)
 *   Presentation Managment System - TODO
 
 
