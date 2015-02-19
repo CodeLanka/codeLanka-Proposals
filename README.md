@@ -179,6 +179,8 @@ Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Propos
 
 Pasindu De Silva
 
+Intial idea by Ishan Marikar 
+
 
 ####Description
 
