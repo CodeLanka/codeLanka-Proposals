@@ -38,7 +38,7 @@ We are doing is to create applications and other resources that would improve th
 
 ###Contributors
 *   Pasindu De Silva [Github](https://github.com/pasindud)
-
+*   Ishan Marikar [Github](https://github.com/ishan-marikar)
 
 *   Add your self if you did some code contribution
 
