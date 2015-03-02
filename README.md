@@ -53,6 +53,7 @@ We are doing is to create applications and other resources that would improve th
 *   [Singlish Corpus, dictionary etc](https://github.com/CodeLanka/codeLanka-Proposals/#5-singlish-corpus-singlish-and-sinhala-wordset-sinhala-and-singlish-dictionary-singlish-and-sinhala-spam-word-dataset-singlish-sentimental-modal-or-dataset--etc)
 *   [Sri Lanka Developer Technical Resources](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#6-sri-lanka-developer-technical-resources)
 *   Presentation Managment System - TODO
+*   Bus Waiting System - TODO
 
 
 ###Getting Involved
@@ -189,4 +190,26 @@ Normal datasets need when devloping a website for Sri Lankans, provinces with ge
 
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/13)
+
+
+
+
+
+###7. Bus Waiting System
+
+
+####Author
+
+
+Lahiru Dhananjaya
+
+
+####Description
+
+
+Sri Lankan Passengers are very unawre about public transpotation(Bus/Train) time.So passengers actually waiting in bus holts upto 2,3 hours until their bus reach the destination. Mainly this will affect to those who are in intermediate destinations directly.If they knew the real time of the related bus/train which they wanna go it will save the time .There is a time log which is maintain by National Transport Board.So we can get that records and create a open dataset to create some usufull apps.
+
+
+
+
 
