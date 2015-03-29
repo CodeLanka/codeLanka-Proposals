@@ -52,11 +52,13 @@ We are doing is to create applications and other resources that would improve th
 *   [local language font compatibility library for android](https://github.com/CodeLanka/codeLanka-Proposals#4-local-language-font-compatibility-library-for-android)
 *   [Singlish Corpus, dictionary etc](https://github.com/CodeLanka/codeLanka-Proposals/#5-singlish-corpus-singlish-and-sinhala-wordset-sinhala-and-singlish-dictionary-singlish-and-sinhala-spam-word-dataset-singlish-sentimental-modal-or-dataset--etc)
 *   [Sri Lanka Developer Technical Resources](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#6-sri-lanka-developer-technical-resources)
-*   Presentation Managment System - TODO
+*   Presentation Managment System - TODO Description
+*   Bootstrap Site for Map Makers, GDG, GBG and GSAs - TODO Description
+*   Sri Lanka, Holiday and Special days calender - TODO Description
 
 
 ###Getting Involved
-Just ping us or raise a issues. Following Projects should be done Open Source and under CodeLanka, unless stated otherwise.
+Just ping us or raise a issues. Following Projects should be done Open Source and under CodeLanka, unless stated otherwise. Und
 
 
 ###Sample Proposal heading
