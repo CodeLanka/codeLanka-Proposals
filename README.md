@@ -193,3 +193,4 @@ Normal datasets need when devloping a website for Sri Lankans, provinces with ge
 
 Issues link - [Post your comments](https://github.com/CodeLanka/codeLanka-Proposals/issues/13)
 
+[![Analytics](https://ga-beacon.appspot.com/UA-61937988-1/CodeLanka/codeLanka-Proposals)](https://github.com/igrigorik/ga-beacon)
