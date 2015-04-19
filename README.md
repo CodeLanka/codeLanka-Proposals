@@ -128,6 +128,7 @@ Chathu Vishwajith
 
 Localize Adobe Brackets Code Editor to Sinhala.
 
+Add Transtaions to [Crowdin Project](https://crowdin.com/project/adobe-brackets-sinhala-transla)
 
 
 
