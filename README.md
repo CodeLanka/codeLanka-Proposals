@@ -17,7 +17,6 @@ Our objective is to create, code and develop applications and resources that wou
 
 
 * Respect everyone without exceptions.
-* Don't be a jerk.
 
 
 ##Are you a University Student looking for projects?
@@ -27,7 +26,6 @@ Select a project from the list below and put up an issue with your questions or 
 
 ##Code Lanka Team
 
-*   Sadun Nilanka (GDG Manager)
 *   Charitha Madusankha (GDG Manager)
 *   Pamuditha Imalka (GDG Team)
 *   Pasindu De Silva (GDG Team)
@@ -37,6 +35,7 @@ Select a project from the list below and put up an issue with your questions or 
 ##Contributors
 *   Pasindu De Silva ([Github](https://github.com/pasindud))
 *   Ishan Marikar ([Github](https://github.com/ishan-marikar))
+*   Pathum Egodawatta ([Github](https://github.com/pathumego))
 
 You could also add yourself if you've contributed.
 
