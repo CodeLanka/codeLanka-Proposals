@@ -1,5 +1,7 @@
 ##CodeLanka
 
+[![Join the chat at https://gitter.im/CodeLanka/codeLanka-Proposals](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CodeLanka/codeLanka-Proposals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Code Lanka is a intiative of GDG Sri Lanka "To Code A Better Society"
 
 *   Many of you have ideas on solving problems using technology or else do interesting things, this can be used to voice your idea and gather 
