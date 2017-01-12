@@ -26,10 +26,11 @@ Select a project from the list below and put up an issue with your questions or 
 
 ##Code Lanka Team
 
-*   Charitha Madusankha (GDG Manager)
+*   Milidu Sanoj (GDG Team)
 *   Pamuditha Imalka (GDG Team)
 *   Pasindu De Silva (GDG Team)
-*   Roshan Lakmal Elvitigala (GDG Team)
+*   Tharaka Devinda (GDG Team)
+*   Raveen Harith (GDG Team)
 
 
 ##Contributors
