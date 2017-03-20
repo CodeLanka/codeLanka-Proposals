@@ -5,7 +5,7 @@ Code Lanka is a intiative of GDG Sri Lanka "To Code A Better Society".
 
 Coding is a skill. A skill that empowers us to build things both good and bad. Many of you may have interesting ideas or solutions to problems using technology. We offer you the platform and the community to incubate it and make it happen. You can fork this proposal, commit your additions and send us a pull request with your ideas. Alternatively, you could also submit an application you've built that you think would be beneficial to developers and end-users in Sri lanka.
 
-##Why?
+## Why?
 
 We are doing is to create applications and other resources that would improve the Sri Lankan developer community and society.
 
@@ -13,18 +13,18 @@ Our objective is to create, code and develop applications and resources that wou
 
 [Google Group | Mailing List](https://groups.google.com/forum/#!forum/codelanka)
 
-##Policy and Rules
+## Policy and Rules
 
 
 * Respect everyone without exceptions.
 
 
-##Are you a University Student looking for projects?
+## Are you a University Student looking for projects?
 
 Select a project from the list below and put up an issue with your questions or your ideas. Let us know if you have anything interesting to add.
 
 
-##Code Lanka Team
+## Code Lanka Team
 
 *   Milidu Sanoj (GDG Team)
 *   Pamuditha Imalka (GDG Team)
@@ -33,7 +33,7 @@ Select a project from the list below and put up an issue with your questions or 
 *   Raveen Harith (GDG Team)
 
 
-##Contributors
+## Contributors
 *   Pasindu De Silva ([Github](https://github.com/pasindud))
 *   Ishan Marikar ([Github](https://github.com/ishan-marikar))
 *   Pathum Egodawatta ([Github](https://github.com/pathumego))
@@ -41,7 +41,7 @@ Select a project from the list below and put up an issue with your questions or 
 You could also add yourself if you've contributed.
 
 
-##Project List
+## Project List
 *   [Sri Lanka Open Data](https://github.com/CodeLanka/codeLanka-Proposals/blob/master/README.md#1-open-data-xls--pdf-to-sql)
 *   [Sinhala Font Directory](https://github.com/CodeLanka/codeLanka-Proposals#author-2)
 *   [Adobe Brackets Sinhala Localization](https://github.com/CodeLanka/codeLanka-Proposals#3-adobe-brackets-sinhala-localization)
@@ -59,21 +59,21 @@ You could also add yourself if you've contributed.
 *   Add description for Sri Lanka, Holiday and Special days calender
 *   Add description for Past Papers, Marking Scheme and Answere Managment System
 
-##Getting Involved
+## Getting Involved
 Just contact us or create an issue.
 
 The following projects are released under the [MIT Open Source Initiative](http://opensource.org/licenses/MIT) License, unless stated otherwise.
 
 
-##1. Open Data XLS | PDF to SQL
+## 1. Open Data XLS | PDF to SQL
 
-###Author
+### Author
 
 
 * Pasindu De Silva ([Github](https://github.com/pasindud))
 
 
-###Description
+### Description
 
 
 Some Sri Lankan data has been published in the following link [Sri Lanka Open Data](http://www.gov.lk/web/index.php?option=com_content&view=article&id=301&Itemid=423&lang=en). Currently there are in xls and pdf format.
@@ -85,15 +85,15 @@ As developers we can do more if it was in SQL and do some nice graphics. My sugg
 
 
 
-##2. Sinhala Font Directory 
+## 2. Sinhala Font Directory 
 
-###Author
+### Author
 
 
 * Pasindu De Silva
 
 
-###Description
+### Description
 
 
 Repository with Sri Lankan fonts.
@@ -103,15 +103,15 @@ Repository with Sri Lankan fonts.
 [Issues](https://github.com/CodeLanka/codeLanka-Proposals/issues/3)
 
 
-##3. Adobe Brackets Sinhala Localization
+## 3. Adobe Brackets Sinhala Localization
 
-###Author
+### Author
 
 
 * Chathu Vishwajith
 
 
-###Description
+### Description
 
 Localize Adobe Brackets Code Editor to Sinhala.
 Help add additional translations via the [Crowdin Project](https://crowdin.com/project/adobe-brackets-sinhala-transla)
@@ -121,16 +121,16 @@ Help add additional translations via the [Crowdin Project](https://crowdin.com/p
 [Issues](https://github.com/CodeLanka/codeLanka-Proposals/issues/6)
 
 
-##4. local language font compatibility library for android
+## 4. local language font compatibility library for android
 
 
-###Author
+### Author
 
 
 * Pahan Sarathchandra
 
 
-###Description
+### Description
 
 
 Android 5.0 lollipop was released recently with sinhala/tamil language. We can make 'noto sans sinhala' font compatible across all android versions. I have done similar work in kichibichiya, siyalu, hathmaluwa android apps. But need to rewrite to fix performance issues.
@@ -140,13 +140,13 @@ Android 5.0 lollipop was released recently with sinhala/tamil language. We can m
 
 
 
-##5. Singlish Corpus, Singlish and sinhala wordset, sinhala and singlish dictionary, singlish and sinhala spam word dataset, singlish sentimental modal or dataset,etc
+## 5. Singlish Corpus, Singlish and sinhala wordset, sinhala and singlish dictionary, singlish and sinhala spam word dataset, singlish sentimental modal or dataset,etc
 
 ###Author
 
 * Pasindu De Silva
 
-###Description
+### Description
 
 
 Sri Lankan Research lack quality transliterated corpus to run algorithms. Linking singlish and sinhala dictionary for directly getting meaning for singlish words. Sinhala & singlish dataset of spam or slag for use of different filter and governance systems. Singlish and sinhala sentimental dataset.
@@ -155,14 +155,14 @@ Sri Lankan Research lack quality transliterated corpus to run algorithms. Linkin
 [Issues](https://github.com/CodeLanka/codeLanka-Proposals/issues/12)
 
 
-##6. Sri Lanka Developer Technical Resources
+## 6. Sri Lanka Developer Technical Resources
 
-###Author
+### Author
 
 * Ishan Marikar
 * Pasindu De Silva
 
-###Description
+### Description
 
 
 Normal datasets need when devloping a website for Sri Lankans, provinces with geo data and google maps integrations, districts with geo data, areas, postal code, phone number prefixs, formats etc.
