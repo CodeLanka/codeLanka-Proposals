@@ -24,17 +24,11 @@ Our objective is to create, code and develop applications and resources that wou
 Select a project from the list below and put up an issue with your questions or your ideas. Let us know if you have anything interesting to add.
 
 
-## Code Lanka Team
-
-*   Milidu Sanoj (GDG Team)
-*   Pamuditha Imalka (GDG Team)
-*   Pasindu De Silva (GDG Team)
-*   Tharaka Devinda (GDG Team)
-*   Raveen Harith (GDG Team)
-
-
 ## Contributors
-*   Pasindu De Silva ([Github](https://github.com/pasindud))
+*   Milidu Sanoj
+*   Pamuditha Imalka
+*   Tharaka Devinda
+*   Raveen Harith
 *   Ishan Marikar ([Github](https://github.com/ishan-marikar))
 *   Pathum Egodawatta ([Github](https://github.com/pathumego))
 
